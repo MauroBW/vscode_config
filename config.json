@@ -1,0 +1,31 @@
+{
+    "editor.fontSize": 12,
+    "editor.minimap.enabled": false,
+    "workbench.editor.showTabs": "single",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.formatOnSave": false,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "explorer.compactFolders": false,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorStyle": "line-thin",
+    "workbench.tree.enableStickyScroll": true,
+    "workbench.tree.indent": 20,
+    "workbench.tree.renderIndentGuides": "always",
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.fontSize": 10,
+    "terminal.integrated.fontWeight": "bold",
+    "errorLens.enabled": true,
+    "errorLens.enabledDiagnosticLevels": [
+        "error",
+        "info"
+    ],
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "workbench.iconTheme": "icons",
+    "window.zoomLevel": 1
+}
